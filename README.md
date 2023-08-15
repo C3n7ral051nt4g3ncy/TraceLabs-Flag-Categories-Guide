@@ -50,9 +50,21 @@ The rules can be found here --> https://www.tracelabs.org/about/search-party-rul
 - Talk to your judge about it on the Trace Labs Discord server and open a ticket
 - Send a mesage to the Trace Labs staff and they will look into it.
 
-## Understanding Flags and Categories
+# Understanding Flags and Categories
 
 <img width="233" src="https://github.com/C3n7ral051nt4g3ncy/TraceLabs-Flag-Categories-Guide/assets/104733166/8604e74c-552e-4200-a517-eae52ffca171">
+
+## Friends - 10 points
+Information relating to friends of the Missing Person
+
+What to do ✅ :
+- Submit profiles of friends on social media who have interacted with the MP!
+- Pertinent data linked to friends of the MP pertinent to the investigation.
+- This can encompass notable interactions between "friends" and the MP, significant photos from friends' social media, remarks or posts from friends about the MP's disappearance, and more.
+
+What not to do ❌:
+- Do not submit information on social media friends who are not proven to be the friends of the missing person or people the MP interacts with.
+- Example: The missing person has 1200 facebook friends, it would be pointless submitted the 1200 facebook friends list.
 
 
 
