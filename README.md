@@ -52,7 +52,9 @@ The rules can be found here --> https://www.tracelabs.org/about/search-party-rul
 
 # Understanding Flags and Categories
 
-<img width="233" src="https://github.com/C3n7ral051nt4g3ncy/TraceLabs-Flag-Categories-Guide/assets/104733166/8604e74c-552e-4200-a517-eae52ffca171">
+<img width="233" src="https://github.com/C3n7ral051nt4g3ncy/TraceLabs-Flag-Categories-Guide/assets/104733166/d939407b-04b1-4293-b7c3-c4bb07ec078d">
+
+
 
 ## Friends - 10 points
 Information relating to friends of the Missing Person
