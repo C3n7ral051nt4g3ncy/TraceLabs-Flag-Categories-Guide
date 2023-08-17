@@ -148,7 +148,7 @@ What not to do ❌:
 - Do not speculate
 
 ## ➡️ 🕒  Advancing the Timeline - 700 Points
-**Information about the Missing Person's activity the missing date**
+**Information about the Missing Person's activity after the missing date**
 
 What to do ✅ :
 - Submit photos of the MP taken after the missing date (confirmed with Exif or during a big event for example)
