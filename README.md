@@ -1,6 +1,8 @@
 # Trace Labs OSINT Search Party CTF
 ### Short Guide on Flags/Categories for newbies
 
+#### ⚠️ This guide is based on my own experience competing in Trace Labs OSINT CTF events, and does not replace or attempt to replace the official Trace Labs guide which you can find on the official Trace Labs website --> https://www.tracelabs.org
+
 <img width="733" src="https://github.com/C3n7ral051nt4g3ncy/TraceLabs-Flag-Categories-Guide/assets/104733166/01bbb459-3576-4752-8fe3-dda739681625">
 
 <img width="733" src="https://github.com/C3n7ral051nt4g3ncy/TraceLabs-Flag-Categories-Guide/assets/104733166/c6545833-5912-4d4f-96bc-70a16b03b50c">
@@ -90,6 +92,26 @@ What not to do ❌:
 ⚠️ **Remember that Trace Labs are looking for quality intelligence, not quantity, do not try and "game the system" by submitting huge amounts of easily found data, for example you may be thinking of submitting 1000 company email addresses which would get you 15,000 points, forget it, it just won't work, your submissions won't be accepted and it may get you warned by the judge.**
 
   
+## ℹ️ Basic Subject Info - 50 points
+Information relating to the employer of the Missing Person or the previous employer.
+Information could be:
+
+What to do ✅ :
+- Submit Aliases/Handles (Usernames)
+- Photos which help the investigation, a photo may show habits or places the MP likes to go to (Photos with friends, family, at sport, work, any kind of photo that would help to know miore about the missing person)
+- Forum profiles and posts
+- Social Network profiles and posts (only highly relevant posts)
+- Dating sites
+- Phone number
+- email address
+- Personal blogs or websites
+
+
+What not to do ❌:
+- If the MP's username is `superman`, you will find hundreds of profiles on various websites by using dedicated username enumeration tools, it would be pointless submitting them all, because there is a very high chance none or only a few profiles will really belong to the MP, so when you submit a profile with the same username, make sure you have proof it's indeed the profile of the MP, meaning there is a name on the profile, or some type of correlation, for example the same avatar is used. It's a case of using your brain and being logical here, obviously if it's a very unique username that noone else would use, you would know it's the MP.
+- Do not submit all the MP's posts, it has to be relevant and classed as Intelligence or important info.
+- Do not submit poor information to "game the system", for example if the Missing Person has a very commom name such as Michael Smith and lives in the US, you will find thousands if not millions of people called Michael Smith, some people submit things just because they found the same name. Make sure to narrow down the search to --> State --> City --> and make sure that the age and dates of birth match so your submission can be accurate.
+
 
 
 
