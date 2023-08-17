@@ -96,7 +96,7 @@ What not to do ❌:
 
 What to do ✅ :
 - Submit Aliases/Handles (Usernames)
-- Photos which help the investigation, a photo may show habits or places the MP likes to go to (Photos with friends, family, at sport, work, any kind of photo that would help to know miore about the missing person)
+- Photos which help the investigation, a photo may show habits or places the MP likes to go to (Photos with friends, family, at sport, work, any kind of photo that would help to know more about the missing person)
 - Forum profiles and posts
 - Social Network profiles and posts (only highly relevant posts)
 - Dating sites
