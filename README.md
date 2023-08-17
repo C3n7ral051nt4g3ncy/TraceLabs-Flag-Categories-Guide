@@ -127,7 +127,7 @@ What to do ✅ :
 What not to do ❌:
 - Do not submit scars or tattoos or jewellery mentioned by the press of Police.
 - Do not submit car information that has been mentioned by the press or Police.
-- Don't submit anything already mentioned on the world wide web.
+- Don't submit anything already mentioned online.
 - ⚠️ Don't try and get part of a password or part of an email or phone number by doing password resets, you will be immediately disqualified!
 
 
