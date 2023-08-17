@@ -19,14 +19,15 @@ More information --> https://www.tracelabs.org/
 <img width="233" src="https://github.com/C3n7ral051nt4g3ncy/TraceLabs-Flag-Categories-Guide/assets/104733166/d5b1826a-83a7-4081-82a2-51bcdf33d2a8">
 
 I've participated in five Trace Labs events, and I take each event very seriously. Among these, my teams achieved **2 silver badges** coming in at 2nd Place, **a gold badge (previously known as a Black Badge) for winning the event**, and a sixth-place finish. <br>
-Unfortunately, the 5th event led to our disqualification due to a rookie teammate unknowingly breaking the rules. 
+
+Unfortunately, the 5th event led to our disqualification due to a rookie teammate unknowingly breaking the rules with a passive recon technique which doesn't alert the target, but still that is **forbidden** in Trace Labs rules. 
 
 It underscores the importance of:
 
-**Reading the Rules**: Before participating, ensure you're familiar with the official rules. <br>
+- **Reading the Rules**: Before participating, ensure you're familiar with the official rules. <br>
 The rules can be found here --> https://www.tracelabs.org/about/search-party-rules
 
-**Joining the Trace Labs Discord Server**: Engage and stay informed through the Trace Labs Discord server --> https://discord.com/invite/tracelabs
+- **Joining the Trace Labs Discord Server**: Engage and stay informed through the Trace Labs Discord server --> https://discord.com/invite/tracelabs
 
 **Remember, in team events, individual actions can impact everyone. Always be considerate of your teammates, take the time to read the rules.**
 
@@ -56,7 +57,7 @@ The rules can be found here --> https://www.tracelabs.org/about/search-party-rul
 
 
 
-## Friends - 10 points
+## 👭 Friends - 10 points
 Information relating to friends of the Missing Person
 
 What to do ✅ :
@@ -68,6 +69,27 @@ What not to do ❌:
 - Do not submit information on social media friends who are not proven to be the friends of the missing person or people the MP interacts with.
 - Example: The missing person has 1200 facebook friends, it would be pointless submitted the 1200 facebook friends list.
 - Remember that the event lasts for 4 hours, submitting good and correct information is vital, the event needs to run smoothly, don't waste the judge's time, the Trace Labs staff's time, and also your own time.
+
+## 💼 Employment - 15 points
+Information relating to the employer of the Missing Person or the previous employer.
+Information could be:
+
+What to do ✅ :
+- Name of current or previous employer and CEO
+- Address of current or previous employer
+- Website of the company, company number, contact details of the company.
+- Known issues with the company (past problems of disappearances, a dangerous employment)
+- Any important information about the job environment that can be found/seen online. (Example: Is there any proof of troubles at work? Arguments online with other members of staff or the Boss, posts that may mention difficult times at work, harrassment from members of staff or from people. (Example: a Waitress that may say online that she feels afriad of a creepy customer that comes in every day and followers her home)
+
+What not to do ❌:
+- Do not submit the Linkedin profile of every single employee in the company
+- No need to go too deep in the company unless you notice that the main issue is coming from the work environment
+- If it's a big company with hundreds of employees nationwide, it would be pointless trying to submit emails of all company employees!
+
+
+⚠️ **Remember that Trace Labs are looking for quality intelligence, not quantity, do not try and "game the system" by submitting huge amounts of easily found data, for example you may be thinking of submitting 1000 company email addresses which would get you 15,000 points, forget it, it just won't work, your submissions won't be accepted and it may get you warned by the judge.**
+
+  
 
 
 
