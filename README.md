@@ -11,7 +11,7 @@
 <img width="233" src="https://github.com/C3n7ral051nt4g3ncy/TraceLabs-Flag-Categories-Guide/assets/104733166/7e05dca7-d253-4dcb-ad60-e5c96fabf8d5">
 
 
-**Trace Labs** sources intelligence from the #OSINT and #Cyber community through Search Party CTFs and ongoing operations. Analysts process the data and create actionable reports for law enforcement to act on, whether revisiting cold cases or locating missing persons.
+**Trace Labs** sources intelligence from the #OSINT and #Cyber community through Search Party CTFs and ongoing operations. <br> Analysts process the data and create actionable reports for law enforcement to act on, whether revisiting cold cases or locating missing persons.
 More information --> https://www.tracelabs.org/
 
 
@@ -60,7 +60,7 @@ The rules can be found here --> https://www.tracelabs.org/about/search-party-rul
 
 
 ## 👭 Friends - 10 points
-Information relating to friends of the Missing Person
+**Information relating to friends of the Missing Person**
 
 What to do ✅ :
 - Submit profiles of friends on social media who have interacted with the MP!
@@ -73,8 +73,7 @@ What not to do ❌:
 - Remember that the event lasts for 4 hours, submitting good and correct information is vital, the event needs to run smoothly, don't waste the judge's time, the Trace Labs staff's time, and also your own time.
 
 ## 💼 Employment - 15 points
-Information relating to the employer of the Missing Person or the previous employer.
-Information could be:
+**Information relating to the employer of the Missing Person or the previous employer**
 
 What to do ✅ :
 - Name of current or previous employer and CEO
@@ -93,8 +92,7 @@ What not to do ❌:
 
   
 ## ℹ️ Basic Subject Info - 50 points
-Information relating to the employer of the Missing Person or the previous employer.
-Information could be:
+**Information relating to the employer of the Missing Person or the previous employer**
 
 What to do ✅ :
 - Submit Aliases/Handles (Usernames)
@@ -105,12 +103,38 @@ What to do ✅ :
 - Phone number
 - email address
 - Personal blogs or websites
+- Home address
 
 
 What not to do ❌:
 - If the MP's username is `superman`, you will find hundreds of profiles on various websites by using dedicated username enumeration tools, it would be pointless submitting them all, because there is a very high chance none or only a few profiles will really belong to the MP, so when you submit a profile with the same username, make sure you have proof it's indeed the profile of the MP, meaning there is a name on the profile, or some type of correlation, for example the same avatar is used. It's a case of using your brain and being logical here, obviously if it's a very unique username that noone else would use, you would know it's the MP.
 - Do not submit all the MP's posts, it has to be relevant and classed as Intelligence or important info.
 - Do not submit poor information to "game the system", for example if the Missing Person has a very commom name such as Michael Smith and lives in the US, you will find thousands if not millions of people called Michael Smith, some people submit things just because they found the same name. Make sure to narrow down the search to --> State --> City --> and make sure that the age and dates of birth match so your submission can be accurate.
+
+## 🕵🏼‍♂️ 🕵🏿‍♂️ Advanced Subject Info - 100 Points
+**Information & Intelligence regarding the Missing Person (MP) that goes deeper that just Basic Subject Information**
+
+What to do ✅ :
+- Submit Unique physical identifiers (e.g. tattoos, scars, piercings) ⚠️ If any of these are mentionned in the press or a Police report, it's **not a valid submission.**
+- Medical issues/conditions. Can be physical or psychological. (Not mentionned in the press or Police reports), you may actually find family or friends talking about this on social media. Could even be a post such as "Well {The MP} changed a lot recently, he started really abusing drugs and was being weird, and having bad thoughts and incoherent words)
+- Licence Plate, make and model of the MP's car (Not mentionned in the press or Police reports)
+- Evidence of the Missing Person no longer missing (This could be a post by a family member saying the MP has been found or press or even the Police)
+- Evidence of the Missing Person having passed away. (Press, family, Police records, Grave finder websites)
+- Previous reports about the MP (Press and Police reports are accepted and this is the only instance in which Trace Labs judges and staff will accept a submission, the MP may have been mentioned years ago as having ran away and then found)
+- Breached passwords: either Hash or clear text (If can Dehash the PW, even better!)
+- Information about the location the MP may have gone to,it can come from the MP, friends, family.  (This could be for example a post in which the MP shows woods and says "I love to come here just to be alone and to think")
+
+What not to do ❌:
+- Do not submit scars or tattoos or jewellery mentionned by the press of Police.
+- Do not submit car information that has been mentioned by the press or Police.
+- Don't submit anything already mentioned on the world wide web.
+- ⚠️ Don't try and get part of a password or part of an email or phone number by doing password resets, you will be immediately disqualified!
+
+  
+
+
+
+
 
 
 
