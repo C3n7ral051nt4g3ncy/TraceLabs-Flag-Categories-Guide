@@ -137,8 +137,8 @@ What not to do ❌:
 ## 🗓️ 👀 Day Last Seen - 300 Points
 
 What to do ✅ :
-- Submit information about the subject's state of mind on the day last seen. (This could be a post by the MP stating he/she is tired of life, wants to disappear or leave the city, in a depressive state, angry, posts about having had an arguments with someone, feels in danger or stressed to the max). The information could come from the MP or from family or friends.
-- Submit information on the clothes the MP was wearing on the last day seen,general appearance. (Not mentioned in press or Police reports)
+- Submit information about the subject's state of mind on the day last seen. (This could be a post by the MP stating he/she is tired of life, wants to disappear or leave the city, in a depressive state, angry, posts about having had an argument with someone, feels in danger or stressed to the max). The information could come from the MP or from family or friends.
+- Submit information on the clothes the MP was wearing on the last day seen and general appearance. (Not mentioned in press or Police reports)
 - Submit information on places the MP was seen at on the last day. (Not mentioned in press or Police reports)
 - Submit any information on day last seen not mentioned in press or Police reports
 
@@ -151,18 +151,19 @@ What not to do ❌:
 **Information about the Missing Person's activity after the missing date**
 
 What to do ✅ :
-- Submit photos of the MP taken after the missing date (confirmed with Exif or during a big event for example)
+- Submit photos of the MP taken after the missing date (confirmed with Exif or during a big event for example) <br>
+**Remember that just because friends and family post many photos online after the missing date, it doesn't automatically classify them as photos taken after the missing date.**
 - Activity from one of the MP's social media accounts or profiles after the missing date
 - A new account or email creation after the missing date
 - Submit new addresses found since the disappearance
 - Video, CCTV, Webcam footage
-- Any location the MP was at from the date missing up until present (CTF day). This information could be found on new photos by using Geoint techniques, Exif on a photo, posts by the MP
+- Any location the MP was at from the date missing up until present (CTF day). This information could be found on new photos by using Geoint techniques, by checking the Exif on a photo, or from posts by the MP.
 
 What not to do ❌:
 - Do not submit information seen in the press or in Police reports
 - Do not submit unverified information
 - Do not speculate
-- Do not submit photos posted that were taken before the missing date
+- Do not submit photos posted online that were taken before the missing date. 
 
 
 
