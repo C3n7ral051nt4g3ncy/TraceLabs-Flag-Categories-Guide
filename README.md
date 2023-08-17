@@ -50,7 +50,8 @@ The rules can be found here --> https://www.tracelabs.org/about/search-party-rul
 - Dress your submissions! Submitting only a link and naked information is truly pointless. Explain to your judge the findings and why they are useful to the investigation.
 
 
-**If you feel that a perfectly good and legitimate flag was rejected:**
+### 🏳️Flag Rejections 🙅
+**If you feel that a perfectly good and legitimate flag submitted by your team was rejected:**
 
 - Talk to your judge about it on the Trace Labs Discord server and open a ticket
 - Send a mesage to the Trace Labs staff and they will look into it.
