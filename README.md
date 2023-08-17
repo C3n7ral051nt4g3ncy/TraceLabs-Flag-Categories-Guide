@@ -115,9 +115,9 @@ What not to do ❌:
 **Information & Intelligence regarding the Missing Person (MP) that goes deeper that just Basic Subject Information**
 
 What to do ✅ :
-- Submit Unique physical identifiers (e.g. tattoos, scars, piercings) ⚠️ If any of these are mentionned in the press or a Police report, it's **not a valid submission.**
-- Medical issues/conditions. Can be physical or psychological. (Not mentionned in the press or Police reports), you may actually find family or friends talking about this on social media. Could even be a post such as "Well {The MP} changed a lot recently, he started really abusing drugs and was being weird, and having bad thoughts and incoherent words)
-- Licence Plate, make and model of the MP's car (Not mentionned in the press or Police reports)
+- Submit Unique physical identifiers (e.g. tattoos, scars, piercings) ⚠️ If any of these are mentioned in the press or a Police report, it's **not a valid submission.**
+- Medical issues/conditions. Can be physical or psychological. (Not mentioned in the press or Police reports), you may actually find family or friends talking about this on social media. Could even be a post such as "Well {The MP} changed a lot recently, he started really abusing drugs and was being weird, and having bad thoughts and incoherent words)
+- Licence Plate, make and model of the MP's car (Not mentioned in the press or Police reports)
 - Evidence of the Missing Person no longer missing (This could be a post by a family member saying the MP has been found or press or even the Police)
 - Evidence of the Missing Person having passed away. (Press, family, Police records, Grave finder websites)
 - Previous reports about the MP (Press and Police reports are accepted and this is the only instance in which Trace Labs judges and staff will accept a submission, the MP may have been mentioned years ago as having ran away and then found)
@@ -125,12 +125,27 @@ What to do ✅ :
 - Information about the location the MP may have gone to,it can come from the MP, friends, family.  (This could be for example a post in which the MP shows woods and says "I love to come here just to be alone and to think")
 
 What not to do ❌:
-- Do not submit scars or tattoos or jewellery mentionned by the press of Police.
+- Do not submit scars or tattoos or jewellery mentioned by the press of Police.
 - Do not submit car information that has been mentioned by the press or Police.
 - Don't submit anything already mentioned on the world wide web.
 - ⚠️ Don't try and get part of a password or part of an email or phone number by doing password resets, you will be immediately disqualified!
 
-  
+
+## 🗓️ 👀 Day Last Seen - 300 Points
+
+What to do ✅ :
+- Submit information about the subject's state of mind on day last seen. (This could be a post by the MP stating he/she is tired of life, wants to disappear or leave the city, in a depressive state, angry, posts about having had an arguments with someone, feels in danger or stressed to the max). The information could come from the MP or from family or friends.
+- Submit information on the clothes the MP was wearing on the last day seen,general appearance. (Not mentioned in press or Police reports)
+- Submit information on places the MP was seen at on the last day. (Not mentioned in press or Police reports)
+- Submit any information on day last seen not mentioned in press or Police reports
+
+What not to do ❌:
+- Do not submit information seen in the press or in Police reports
+- Do not submit unverified information
+- Do not speculate 
+
+
+
 
 
 
