@@ -145,7 +145,25 @@ What to do ✅ :
 What not to do ❌:
 - Do not submit information seen in the press or in Police reports
 - Do not submit unverified information
-- Do not speculate 
+- Do not speculate
+
+## ➡️ 🕒  Advancing the Timeline - 700 Points
+**Information about the Missing Person's activity the missing date**
+
+What to do ✅ :
+- Submit photos of the MP taken after the missing date (confirmed with Exif or during a big event for example)
+- Activity from one of the MP's social media accounts or profiles after the missing date
+- A new account or email creation after the missing date
+- Submit new addresses found since the disappearance
+- Video, CCTV, Webcam footage
+- Any location the MP was at from the date missing up until present (CTF day). This information could be found on new photos by using Geoint techniques, Exif on a photo, posts by the MP
+
+What not to do ❌:
+- Do not submit information seen in the press or in Police reports
+- Do not submit unverified information
+- Do not speculate
+- Do not submit photos posted that were taken before the missing date
+
 
 
 
