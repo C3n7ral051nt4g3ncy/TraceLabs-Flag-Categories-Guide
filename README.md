@@ -103,7 +103,7 @@ What not to do ❌:
 
   
 ## ℹ️ Basic Subject Info - 50 points
-**Information relating to the employer of the Missing Person or the previous employer**
+**Basic Information about the Missing Person**
 
 What to do ✅ :
 - Submit Aliases/Handles (Usernames)
