@@ -79,7 +79,7 @@ What to do ✅ :
 - This can encompass notable interactions between "friends" and the MP, significant photos from friends' social media, remarks or posts from friends about the MP's disappearance, and more.
 
 What not to do ❌:
-- Do not submit information on social media friends who are not proven to be the friends of the missing person or people the MP interacts with.
+- Do not submit information on all social media friends! the submissions need to include proven friends of the missing person, people the MP actually interacts with.
 - Example: The missing person has 1200 facebook friends, it would be pointless to submit the 1200 facebook friends list.
 - Remember that the event lasts for 4 hours, submitting good and correct information is vital, the event needs to run smoothly, don't waste the judge's time, the Trace Labs staff's time, and also your own time.
 
