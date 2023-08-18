@@ -174,32 +174,35 @@ What not to do ❌:
 - Do not submit photos posted online that were taken before the missing date.
 
 ## ⬛🕸️🧅💻 Darkweb - 1000 points
-**Information about the Missing Person that comes from the Dark Web**<br>
+**Information about the Missing Person from the Dark Web**<br>
 **🚨⚠️❗Must be a .onion Link**
 
 
 What to do ✅ :
-- Submit Dark web pages or sites created by the Missing Person
-- Submit photos of the Missing Person found on all types of sites & human trafficking sites.
-- Submit activity by the MP such as purchased goods, reviews, posts on Dark Web forums
-- Submit activity of the MP such as selling goods or services on the Dark Web.
-- Submit leaked passwords or emails, ⚠️ but keep in mind that even if this information does not exist on the clear web, the Trace Labs staff decided to class this in `Advanced subject info`(100 points), so you won't get 1000 points for submitting pastebins or leaks from the Dark Web.
+- Submit Dark Web pages or sites created by the Missing Person.
+- Submit photos of the Missing Person found on all types of sites, including human trafficking sites.
+- Submit activity by the Missing Person (MP) such as purchased goods, reviews, or posts on Dark Web forums.
+- Submit activity of the MP, like selling goods or services on the Dark Web.
+- Submit leaked passwords or emails. ⚠️ However, note that even if this information is exclusive to the Dark Web and not on the clear web, the Trace Labs staff classify this under `Advanced Subject Information` (100 points). **So, you won't receive 1000 points for submitting pastebins or leaks from the Dark Web.**
+
 
 What not to do ❌:
-- Do not submit .onion links from mirrors of the clear web. Examples of mirrors are --> Facebook, the CIA, New York Times etc...
-- Do not submit inaccurate information
-- Do not speculate
-- Don't spend too much time on the Dark Web, the Trace Labs event lasts for 4 hours, you will be wasting valuable time by attempting to search on the Dark Web, the whole purpose of the Dark Web is to remain covert, the chances of finding the target there are close to none, and the best pivot to finding things on the Dark Web would be to find the pivot on the clear web, for example the subject mentioning he/she has a site or services on the DW. <br>
-Dark Web search engines are not reliable, I have yet to find a good one that doesn't miss things.
+- Avoid submitting .onion links from clear web mirrors, such as Facebook, the CIA, or New York Times.
+- Do not provide inaccurate information.
+- Refrain from speculating.
+- Don't spend excessive time on the Dark Web. Remember, the Trace Labs events last only 4 hours. Since the Dark Web's primary purpose is to stay hidden, chances of locating the target there are slim. Often, the best strategy is to find clues or links on the clear web, such as the subject mentioning their site or services on the Dark Web. **Be cautious with Dark Web search engines. They often miss information and can be unreliable.**
+
 
 ## 📌 🗺️Location - 5000 Points
 **Information about the current location of the Missing Person**
 
 What to do ✅ :
-- Submit the current location (Current means the location the MP is at or was during the last 24 hours maximum)
-- Current location does not mean an approximate or believed location; it means you have an address.
+
+- Submit the current location. "Current" refers to the location the MP is or was at within the last 24 hours.
+- "Current location" requires an exact address, not a vague or assumed location.
 
 What not to do ❌:
-- Do not submit a Police report or press update stating the person was found. This counts as advanced subject information (100 points)
-- Do not speculate, do not submit an approximate location, it really needs to be precise such as: (House, apartment, hotel, motel)
-- Do not just submit a link or GPS coordinates, **this is 5000 points**, therefore you need to dress your intelligence, you need to write a report with the submission explaining everything, how you found the intel, how you can be sure the suibject is or was at this precise location during the last 24 hours.
+
+- Do not submit police reports or press updates stating the person was found. This is considered Advanced Subject Information (100 points).
+- Avoid speculating.Don't submit general locations; precision is key (e.g., house, apartment, hotel, motel).
+- Simply providing a link or GPS coordinates is insufficient for 5000 points. Accompany your submission with a detailed report explaining how you sourced the intelligence and how you verified the subject was at that precise location in the last 24 hours.
