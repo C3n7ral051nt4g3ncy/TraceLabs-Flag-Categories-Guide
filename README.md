@@ -163,7 +163,27 @@ What not to do ❌:
 - Do not submit information seen in the press or in Police reports
 - Do not submit unverified information
 - Do not speculate
-- Do not submit photos posted online that were taken before the missing date. 
+- Do not submit photos posted online that were taken before the missing date.
+
+## ⬛🕸️🧅💻 Darkweb - 1000 points
+**Information about the Missing Person that comes from the Dark Web**<br>
+**🚨⚠️❗Must be a .onion Link**
+
+
+What to do ✅ :
+- Submit Dark web pages or sites created by the Missing Person
+- Submit photos of the Missing Person found on all types of sites & human trafficking sites.
+- Submit activity by the MP such as purchased goods, reviews, posts on Dark Web forums
+- Submit activity of the MP such as selling goods or services on the Dark Web.
+- Submit leaked passwords or emails, ⚠️ but keep in mind that even if this information does not exist on the clear web, the Trace Labs staff decided to class this in `Advanced subject info`(100 points), so you won't get 1000 points for submitting pastebins or leaks from the Dark Web.
+
+What not to do ❌:
+- Do not submit .onion links from mirrors of the clear web. Examples of mirrors are --> Facebook, the CIA, New York Times etc...
+- Do not submit inaccurate information
+- Do not speculate
+- Don't spend too much time on the Dark Web, the Trace Labs event lasts for 4 hours, you will be wasting valuable time by attempting to search on the Dark Web, the whole purpose of the Dark Web is to remain covert, the chances of finding the target there are close to none, and the best pivot to finding things on the Dark Web would be to find the pivot on the clear web, for example the subject mentioning he/she has a site or services on the DW. <br>
+Dark Web search engines are not reliable, I have yet to find a good one that doesn't miss things.
+
 
 
 
