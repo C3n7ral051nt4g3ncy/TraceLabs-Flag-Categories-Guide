@@ -20,6 +20,10 @@ More information --> https://www.tracelabs.org/
 # The most important tips for newbies
 <img width="233" src="https://github.com/C3n7ral051nt4g3ncy/TraceLabs-Flag-Categories-Guide/assets/104733166/d5b1826a-83a7-4081-82a2-51bcdf33d2a8">
 
+I've crafted this guide to streamline your participation in Trace Labs CTF events. It's designed to help competing teams understand precisely what they should and shouldn't submit, as well as shed light on the overall process. <br>
+By knowing what to submit, teams can work more efficiently, resulting in fewer flag rejections. 
+<br>This not only ensures a smoother Trace Labs CTF experience but also lightens the load for the Trace Labs judges and the overall organization."
+
 I've participated in five Trace Labs events, and I take each event very seriously. Among these, my teams achieved **2 silver badges** coming in at 2nd Place, **a gold badge (previously known as a Black Badge) for winning the event**, and a sixth-place finish. <br>
 
 Unfortunately, the 5th event led to our disqualification due to a rookie teammate unknowingly breaking the rules with a passive recon technique which doesn't alert the target, but still that is **forbidden** in Trace Labs rules. 
