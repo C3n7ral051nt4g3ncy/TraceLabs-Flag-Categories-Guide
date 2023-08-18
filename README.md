@@ -91,7 +91,7 @@ What to do ✅ :
 - Address of current or previous employer
 - Website of the company, company number, contact details of the company.
 - Known issues with the company (past problems of disappearances, a dangerous employment)
-- Any important information about the job environment that can be found/seen online. (Example: Is there any proof of troubles at work? Arguments online with other members of staff or the Boss, posts that may mention difficult times at work, harrassment from members of staff or from people entering the business (the public). (Example: a Waitress that may say online that she feels afraid of a creepy customer that comes in every day and followers her)
+- Any important information about the job environment that can be found/seen online. (Example: Is there any proof of troubles at work? Arguments online with other members of staff or the Boss, posts that may mention difficult times at work, harrassment from members of staff or from people entering the business (the public). (Example: a Waitress that may say online that she feels afraid of a creepy customer that comes in every day and follows her in the street)
 
 What not to do ❌:
 - Do not submit the Linkedin profile of every single employee in the company
