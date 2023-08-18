@@ -133,7 +133,7 @@ What to do ✅ :
 - Evidence of the Missing Person having passed away. (Press, family, Police records, Grave finder websites)
 - Previous reports about the MP (Press and Police reports are accepted and this is the only instance in which Trace Labs judges and staff will accept a submission, the MP may have been mentioned years ago as having ran away and then found)
 - Breached passwords: either Hash or clear text (If you can Dehash the PW, even better!)
-- Information about the location the MP may have gone to,it can come from the MP, friends, family.  (This could be for example a post in which the MP shows woods and says "I love to come here just to be alone and to think")
+- Information about the location the MP may have gone to,it can come from the MP, friends, family.  (This could be for example a post in which the MP shows woods and says "I love to come here just to be alone and to think"), **this kind of allows for speculation, because if you have proof on the exact location of the MP, go for the 5000 points flag!**
 
 What not to do ❌:
 - Do not submit scars or tattoos or jewellery mentioned by the press of Police.
