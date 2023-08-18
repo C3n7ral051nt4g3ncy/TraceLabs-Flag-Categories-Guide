@@ -55,7 +55,7 @@ The rules can be found here --> https://www.tracelabs.org/about/search-party-rul
 - This means that when you submit, you need to explain the findings to your judge, how you found this information, how you can be sure of it, what proves it, how you came to this conclusion.
 - Submitting poorly explained information, wrong information, or the same information many times will only lead to making the event less user-friendly for you and your team, it gives the judge a lot more work to do, it gives the Trace labs staff a lot more work to do, it will also make your team look bad, and the judge needs to trust you and your team and the information you are submitting.
 - **Do not ever speculate**, it's not a time or place for a hunch.
-- Dress your submissions! Submitting only a link and naked information is truly pointless. Explain to your judge the findings and why they are useful to the investigation.
+- Dress your submissions! Simply submitting a link and naked information is pointless. Explain to your judge the findings and your submission is useful to the investigation.
 
 
 ### 🏳️Flag Rejections 🙅
