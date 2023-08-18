@@ -143,6 +143,7 @@ What not to do ❌:
 
 
 ## 🗓️ 👀 Day Last Seen - 300 Points
+**Information on the day the MP was last seen (Disappearance date)**
 
 What to do ✅ :
 - Submit information about the subject's state of mind on the day last seen. (This could be a post by the MP stating he/she is tired of life, wants to disappear or leave the city, in a depressive state, angry, posts about having had an argument with someone, feels in danger or stressed to the max). The information could come from the MP or from family or friends.
