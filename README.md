@@ -127,7 +127,7 @@ What not to do ❌:
 
 What to do ✅ :
 - Submit Unique physical identifiers (e.g. tattoos, scars, piercings) ⚠️ If any of these are mentioned in the press or a Police report, it's **not a valid submission.**
-- Medical issues/conditions. Can be physical or psychological. (Not mentioned in the press or Police reports), you may actually find family or friends talking about this on social media. Could even be a post such as "Well {The MP} changed a lot recently, he started really abusing drugs and was being weird, and having bad thoughts and incoherent words)
+- Medical issues/conditions. Can be physical or psychological. (Not mentioned in the press or Police reports), you may actually find family or friends talking about this on social media. Could even be a post such as "Well {The MP} changed a lot recently, he/she started really abusing drugs and was being and acting weird and having bad thoughts".
 - Licence Plate, make and model of the MP's car (Not mentioned in the press or Police reports)
 - Evidence of the Missing Person no longer missing (This could be a post by a family member saying the MP has been found or press or even the Police)
 - Evidence of the Missing Person having passed away. (Press, family, Police records, Grave finder websites)
