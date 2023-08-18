@@ -132,7 +132,7 @@ What to do ✅ :
 - Evidence of the Missing Person no longer missing (This could be a post by a family member saying the MP has been found or press or even the Police)
 - Evidence of the Missing Person having passed away. (Press, family, Police records, Grave finder websites)
 - Previous reports about the MP (Press and Police reports are accepted and this is the only instance in which Trace Labs judges and staff will accept a submission, the MP may have been mentioned years ago as having ran away and then found)
-- Breached passwords: either Hash or clear text (If can Dehash the PW, even better!)
+- Breached passwords: either Hash or clear text (If you can Dehash the PW, even better!)
 - Information about the location the MP may have gone to,it can come from the MP, friends, family.  (This could be for example a post in which the MP shows woods and says "I love to come here just to be alone and to think")
 
 What not to do ❌:
