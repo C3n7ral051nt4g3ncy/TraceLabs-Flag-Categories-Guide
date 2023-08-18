@@ -173,6 +173,15 @@ What not to do ❌:
 - Do not submit unverified information
 - Do not speculate
 - Do not submit photos posted online that were taken before the missing date.
+- If you find an email tied to a Google account, and you run a search with Ghunt, you will get date and time the Google account was updated, **you can't submit this as advancing the timeline because:** <br>
+
+1/ This method is not reliable, Google forces all accounts to accept Terms and Conditions even if the email is not active, so that would show as update date and time. <br>
+
+2/ Someone else could be accessing the email and making changes after the disappearance, many families share the same email and the same computer, many people also leave passwords in their browsers to save time during login.
+<br>
+
+**The Google API method therefore can't be accepted by Trace Labs**
+
 
 ## ⬛🕸️🧅💻 Darkweb - 1000 points
 **Information about the Missing Person from the Dark Web**<br>
