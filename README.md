@@ -112,11 +112,11 @@ What not to do ❌:
 
 ## 💼 Employment - 50 points
 
-*Attention! The number of points for this category has changed as of June 2026.*
+*Attention! The number of points for this category has changed as of June 2026. Previously it was less, namely 15 points.*
 
 **Information relating to the employer of the Missing Person or the previous employer**
 
-> ℹ️ As of June 2026, Employment went up from 15 to 50 points. Co-workers are now classified under Friends, not Employment.
+> ℹ️ As of June 2026, co-workers are now classified under Friends, not Employment.
 
 What to do ✅ :
 - Name of current or previous employer and CEO
@@ -156,7 +156,7 @@ What not to do ❌:
 
 ## 🕵🏼‍♂️ 🕵🏿‍♂️ Advanced Subject Info - 250 Points
 
-*Attention! The number of points for this category has changed as of June 2026.*
+*Attention! The number of points for this category has changed as of June 2026. Previously it was less, namely 100 points.*
 
 **Information & Intelligence regarding the Missing Person (MP) that goes deeper that just Basic Subject Information**
 
@@ -179,7 +179,7 @@ What not to do ❌:
 
 ## 🗓️ 👀 Day Last Seen - 250 Points
 
-*Attention! The number of points for this category has changed as of June 2026.*
+*Attention! The number of points for this category has changed as of June 2026. Previously it was more, namely 300 points.*
 
 **Information on the day the MP was last seen (Disappearance date)**
 
@@ -196,7 +196,7 @@ What not to do ❌:
 
 ## ➡️ 🕒  Advancing the Timeline - 1000 Points
 
-*Attention! The number of points for this category has changed as of June 2026.*
+*Attention! The number of points for this category has changed as of June 2026. Previously it was less, namely 700 points.*
 
 **Information about the Missing Person's activity after the missing date**
 
