@@ -64,6 +64,14 @@ The rules can be found here --> https://www.tracelabs.org/about/search-party-rul
 - Talk to your judge about it on the Trace Labs Discord server and open a ticket
 - Send a mesage to the Trace Labs staff and they will look into it.
 
+### 🚫 No Point Value - 0 points
+
+*New category added in June 2026.*
+
+**This category is for information that comes from disallowed sources.**
+
+It lets you include a finding in your report without awarding any points for it. So if the information is relevant to the investigation but was obtained from a source Trace Labs does not allow, it can still be documented under `No Point Value` instead of being rejected outright.
+
 # Understanding Flags and Categories
 
 <img width="233" src="https://github.com/C3n7ral051nt4g3ncy/TraceLabs-Flag-Categories-Guide/assets/104733166/d939407b-04b1-4293-b7c3-c4bb07ec078d">
@@ -73,9 +81,12 @@ The rules can be found here --> https://www.tracelabs.org/about/search-party-rul
 ## 👭 Friends - 10 points
 **Information relating to friends of the Missing Person**
 
+> ℹ️ As of June 2026, co-workers of the MP are classified under Friends, not Employment.
+
 What to do ✅ :
 - Submit profiles of friends on social media who have interacted with the MP!
 - Pertinent data linked to friends of the MP pertinent to the investigation.
+- Submit co-workers of the MP — as of June 2026 they belong in this category rather than Employment.
 - This can encompass notable interactions between "friends" and the MP, significant photos from friends' social media, remarks or posts from friends about the MP's disappearance, and more.
 
 What not to do ❌:
@@ -83,8 +94,29 @@ What not to do ❌:
 - Example: The missing person has 1200 facebook friends, it would be pointless to submit the 1200 facebook friends list.
 - Remember that the event lasts for 4 hours, submitting good and correct information is vital, the event needs to run smoothly, don't waste the judge's time, the Trace Labs staff's time, and also your own time.
 
-## 💼 Employment - 15 points
+## 👨‍👩‍👧 Family - 10 points
+
+*New category added in June 2026.*
+
+**Information relating to family members of the Missing Person**
+
+> ℹ️ As of June 2026, on-going romantic relationships are classified under Family.
+
+What to do ✅ :
+- Submit profiles of family members on social media who have interacted with the MP.
+- Submit current/on-going romantic partners of the MP — as of June 2026 these belong in this category.
+- Pertinent data linked to family of the MP relevant to the investigation, such as notable interactions, significant photos, or posts about the MP's disappearance.
+
+What not to do ❌:
+- Do not submit every relative you can find. Submissions need to be proven family members the MP actually interacts with or who are relevant to the case.
+
+## 💼 Employment - 50 points
+
+*Attention! The number of points for this category has changed as of June 2026.*
+
 **Information relating to the employer of the Missing Person or the previous employer**
+
+> ℹ️ As of June 2026, Employment went up from 15 to 50 points. Co-workers are now classified under Friends, not Employment.
 
 What to do ✅ :
 - Name of current or previous employer and CEO
@@ -122,7 +154,10 @@ What not to do ❌:
 - Do not submit all the MP's posts, it has to be relevant and classed as Intelligence or important info.
 - Do not submit poor information to "game the system", for example if the Missing Person has a very commom name such as Michael Smith and lives in the US, you will find thousands if not millions of people called Michael Smith, some people submit things just because they found the same name. Make sure to narrow down the search to --> State --> City --> and make sure that the age and dates of birth match so that your submission can be accurate.
 
-## 🕵🏼‍♂️ 🕵🏿‍♂️ Advanced Subject Info - 100 Points
+## 🕵🏼‍♂️ 🕵🏿‍♂️ Advanced Subject Info - 250 Points
+
+*Attention! The number of points for this category has changed as of June 2026.*
+
 **Information & Intelligence regarding the Missing Person (MP) that goes deeper that just Basic Subject Information**
 
 What to do ✅ :
@@ -142,7 +177,10 @@ What not to do ❌:
 - ⚠️ Don't try and get part of a password or part of an email or phone number by doing password resets, you will be immediately disqualified!
 
 
-## 🗓️ 👀 Day Last Seen - 300 Points
+## 🗓️ 👀 Day Last Seen - 250 Points
+
+*Attention! The number of points for this category has changed as of June 2026.*
+
 **Information on the day the MP was last seen (Disappearance date)**
 
 What to do ✅ :
@@ -156,8 +194,13 @@ What not to do ❌:
 - Do not submit unverified information
 - Do not speculate
 
-## ➡️ 🕒  Advancing the Timeline - 700 Points
+## ➡️ 🕒  Advancing the Timeline - 1000 Points
+
+*Attention! The number of points for this category has changed as of June 2026.*
+
 **Information about the Missing Person's activity after the missing date**
+
+> ℹ️ As of June 2026, this category requires approval by staff or an admin coach — submissions go through an additional layer of review before being accepted.
 
 What to do ✅ :
 - Submit photos of the MP taken after the missing date (confirmed with Exif or during a big event for example) <br>
@@ -205,6 +248,8 @@ What not to do ❌:
 
 ## 📌 🗺️Location - 5000 Points
 **Information about the current location of the Missing Person**
+
+> ℹ️ As of June 2026, the points are unchanged, but this category now requires leadership team approval to be awarded.
 
 What to do ✅ :
 
